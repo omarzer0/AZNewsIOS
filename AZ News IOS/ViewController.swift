@@ -30,7 +30,7 @@ class ViewController: UIViewController,UITableViewDataSource, UITableViewDelegat
     
     override func viewDidLoad() {
         super.viewDidLoad()        
-        title = "AZ New"
+        title = "AZ News"
         view.backgroundColor = .systemBackground
         view.addSubview(tableView)
         tableView.delegate = self
