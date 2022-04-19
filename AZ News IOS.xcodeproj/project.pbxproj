@@ -13,6 +13,8 @@
 		DAD45C24280E5171008EA772 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DAD45C22280E5171008EA772 /* Main.storyboard */; };
 		DAD45C26280E5175008EA772 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DAD45C25280E5175008EA772 /* Assets.xcassets */; };
 		DAD45C29280E5175008EA772 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DAD45C27280E5175008EA772 /* LaunchScreen.storyboard */; };
+		DAD45C33280E52DE008EA772 /* ApiCalle.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAD45C32280E52DE008EA772 /* ApiCalle.swift */; };
+		DAD45C36280E5EE5008EA772 /* NewsTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAD45C35280E5EE5008EA772 /* NewsTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		DAD45C25280E5175008EA772 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DAD45C28280E5175008EA772 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DAD45C2A280E5175008EA772 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DAD45C32280E52DE008EA772 /* ApiCalle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApiCalle.swift; sourceTree = "<group>"; };
+		DAD45C35280E5EE5008EA772 /* NewsTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +67,8 @@
 				DAD45C25280E5175008EA772 /* Assets.xcassets */,
 				DAD45C27280E5175008EA772 /* LaunchScreen.storyboard */,
 				DAD45C2A280E5175008EA772 /* Info.plist */,
+				DAD45C32280E52DE008EA772 /* ApiCalle.swift */,
+				DAD45C35280E5EE5008EA772 /* NewsTableViewCell.swift */,
 			);
 			path = "AZ News IOS";
 			sourceTree = "<group>";
@@ -137,7 +143,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DAD45C33280E52DE008EA772 /* ApiCalle.swift in Sources */,
 				DAD45C21280E5171008EA772 /* ViewController.swift in Sources */,
+				DAD45C36280E5EE5008EA772 /* NewsTableViewCell.swift in Sources */,
 				DAD45C1D280E5171008EA772 /* AppDelegate.swift in Sources */,
 				DAD45C1F280E5171008EA772 /* SceneDelegate.swift in Sources */,
 			);
