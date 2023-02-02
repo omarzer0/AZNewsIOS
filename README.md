@@ -1,8 +1,8 @@
 # AZNewsIOS
 ## My AZ-News app for IOS.
 
-(In my opinion) Learning by practice is the best way to learn so I created the same 
-idea with different tools and porgramming languages (Android {Java and Kotin}-Flutter {Dart} - IOS {Swift}
+Learning by practice is the best way to learn so I created the same 
+idea with different tools and porgramming languages (Android {Java and Kotin}-Flutter {Dart} - IOS {Swift}.
 
 <table align="center">
    <tr>
